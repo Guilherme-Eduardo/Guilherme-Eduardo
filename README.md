@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gui/gui/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Guilherme-Eduardo/Guilherme-Eduardo/outpu
 
 ###
