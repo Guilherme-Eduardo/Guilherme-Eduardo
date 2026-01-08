@@ -1,4 +1,4 @@
-<h2 align="left">Hello everyone, nice to meet you 👋! <br>My name is Guilherme Eduardo.</h2>
+<h2 align="left">Hi 👋! <br>My name is Guilherme Eduardo.</h2>
 
 ###
 
