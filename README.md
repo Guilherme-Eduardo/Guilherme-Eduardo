@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Biomedical Informatics undergraduate student at the Federal University of Paraná (UFPR).<br>I currently work as a researcher at the Scientific Computing and Free Software Center (C3SL).<br><br>My academic and research interests include Natural Image Processing and Cybersecurity, with a focus on applying computational methods to real-world and scientific problems.</p>
+<p align="left">I am a Biomedical Informatics undergraduate student at the Federal University of Paraná (UFPR).<br>I currently work as a researcher at the Scientific Computing and Free Software Center (C3SL).<br><br>My academic and research interests include Natural Language Processing (NLP) and Cybersecurity, with a focus on applying computational methods to real-world and scientific problems.</p>
 
 ###
 
